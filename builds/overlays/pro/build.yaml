@@ -8,5 +8,5 @@ metadata:
 spec:
   buildDefaults:
     imageLabels:
-    - name: prodbuilddcalbo3
+    - name: prodbuilddcalbo33
       value: "true"
